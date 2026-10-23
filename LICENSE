@@ -1,0 +1,21 @@
+Urban Tissue Explorer
+Copyright (c) 2026 Adisunu Alui. All rights reserved.
+
+This software, including its source code, compiled code, documentation and
+design, is proprietary. No licence is granted to copy, modify, merge, publish,
+distribute, sublicense, decompile, reverse engineer or create derivative works
+of it, in whole or in part, without the prior written permission of the
+copyright holder.
+
+Permission is granted to use the hosted application at
+https://werkstation-aa.github.io/urban-tissue-explorer/ for its intended
+purpose. Results produced with the application may be used and published with
+attribution to "Urban Tissue Explorer" and to the data sources it lists.
+
+Third-party components included with this software remain under their own
+licences; see THIRD-PARTY-NOTICES.txt. Nothing in this licence restricts the
+rights those licences grant.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
