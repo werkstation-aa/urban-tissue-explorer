@@ -1,7 +1,7 @@
 // Urban Tissue Explorer service worker.
 // App shell (page, libraries, icons) is precached so the app opens instantly and works offline;
 // map tiles and analysis data always go straight to the network (large, range-requested, not ours to cache).
-const VERSION = "ute-v15";
+const VERSION = "ute-v16";
 const SHELL = [
   "./",
   "./index.html",
